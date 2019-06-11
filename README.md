@@ -1,7 +1,7 @@
 # 입문자를 위한 Git과 HTML&CSS
 ## 1일차 
 ### 환경설정
-- Chrome 설치
+- Chrome 설치 -> Chrome Extension -> Web Developer 설치
 - Git 설치
 - VS Code 설치
 ### CLI 명령어
