@@ -33,10 +33,10 @@
 
 ## 2일차
 ### HTML 기본구조
-- DTD 선언(<DOCTYPE html>)
-- html 요소 (<html land="ko-KR">)
+- DTD 선언(DOCTYPE html)
+- html 요소 (html land="ko-KR")
 - head 요소 (문서 제목 및 메타데이터)
-- 인코딩 선언 (<meta charset="utf-8">)
+- 인코딩 선언 (meta charset="utf-8")
 - body 요소 (본문 영역)
 
 ~~~html
